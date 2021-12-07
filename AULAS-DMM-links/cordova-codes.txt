@@ -1,0 +1,7 @@
+cordova create garconapp br.com.etemcm "GarçomApp"
+
+cordova platform add browser (android ou ios)
+
+cordova run browser (a diferença de browser e andriod, cmd fica ocupado para rodar um servidorzinho e verifica atualizações, enquanto android atualiza a cada alteração)
+
+Ctrl + C (para finalizar o servidor)
